@@ -1,8 +1,8 @@
 # Oppgave.md
 
-## DFØ ting
+## Annet
 
-### Annet
+### Steg
 
 #### 1. Planlegging
 

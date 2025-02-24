@@ -4,7 +4,7 @@
   - [powerpoint](#powerpoint)
   - [Hovedoppgave](#hovedoppgave)
     - [Logg](#logg)
-    - [Framgangsplan](#framgangsplan)
+    - [Fremdriftsplan](#fremdriftsplan)
     - [Planlegging](#planlegging)
       - [endepunkter jeg vil ha](#endepunkter-jeg-vil-ha)
       - [Databasestruktur](#databasestruktur)
@@ -17,7 +17,6 @@
     - [B](#b)
   - [Andre ting](#andre-ting)
     - [kompetansemål](#kompetansemål)
-      - [kompetansemål\_url](#kompetansemål_url)
       - [1](#1)
       - [2](#2)
       - [3](#3)
@@ -50,16 +49,44 @@ bruke [standard powerpoint](https://nettfisken.fiskeridirektoratet.no/ting-du-tr
 
 Logg er tilgjengelig [her](https://github.com/Kireobat/testfagprove/blob/master/docs/logg.md)
 
-### Framgangsplan
+### Fremdriftsplan
 
 | Dato(er) | Oppgave | Fremgangsmåte | Kompetansemål | Arbeidsverktøy | Kilder | Begrunnelse | Ref |
 |-|-|-|-|-|-|-|-|
-| 24.02.25 | Planlegge | Reflektere og tenke på hvordan jeg bør utføre oppgaven på en god måte. Dette inkluderer database stuktur, enkelte endepunkter, ideer til frontend. | [1](#1), [2](#2), [4](#4), [5](#5), [6](#6), [10](#10) | VSCode | Me, Myself & I | Det kan være lurt å ha en plan for hva man skal gjøre | [Lenke](#planlegging) |
-| 25.02.25 -> 03.03.25 | Gjøre oppgaven | Kode | mange | IntelliJ IDEA og VSCode | idk | må gjøres | [Lenke](https://github.com/Kireobat/testfagprove) |
+| **24.02.25** | Planlegge | Reflektere og tenke på hvordan jeg bør utføre oppgaven på en god måte. Dette inkluderer database stuktur, enkelte endepunkter, ideer til frontend. | [1](#1), [2](#2), [4](#4), [5](#5), [6](#6), [10](#10) | VSCode | Me, Myself & I | Det kan være lurt å ha en plan for hva man skal gjøre | [Lenke](#planlegging) |
+|||||||||
+|24.02.25|Planlegge databasestruktur|skrive + tenke|[5](#5)|dbdiagram.io||||
+|24.02.25|Planlegge nødvendige endepunkter|skrive + tenke||VSCode||||
+|24.02.25|Søke etter ting jeg tror kan hjelpe med oppgaven|Bruke firefox og en søkemotor til å undersøke og finne forskjellige måter å gjøre gjennomføringen av oppgaven enklere|[6](#6), [10](#10)|Firefox|Github og andre nettsider|||
+|||||||||
+| **25.02.25** |Begynne på backend| opprette prosjekt på git, sette opp spring applikasjon osv.||||||
+| 25.02.25 |Sette opp git prosjekt| opprette prosjekt på git||||||
+| 25.02.25 |Opprette spring applikasjon| opprette spring applikasjon||||||
+| 25.02.25 |implementere databasestruktur| implementere databasestruktur||||||
+| 25.02.25 |begynne på endepunkter| begynne på endepunkter||||||
+| 25.02.25 |Lage Jenkinsfile og sjekke et jenkins fungerer| lag fil, push||||||
+| 25.02.25 |Få alle endepunktene til å fungere| Få alle endepunktene til å fungere||||||
+|||||||||
+| **26.02.25** |Fortsette på backend| lage og sjekke at endepunkter fungerer ||||||
+|||||||||
+| **27.02.25** |Begynne på frontend| lage en frontend i svelte? bruk openapi-generator-cli for api||||||
+| 27.02.25 |Sette opp git prosjekt| opprette prosjekt på git||||||
+| 27.02.25 |Sette opp prosjekt med nødvendige avhengigheter| opprette prosjekt med nødvendige avhengigheter||||||
+| 27.02.25 |Generer api| `npm run openapi:all`||||||
+|||||||||
+| **28.02.25** |Fortsette på frontend|||||||
+|||||||||
+| **01.03.25** |Fikse alle feilene| Jeg kommer til å fokusere på det jeg ser er nødvendig/viktigst 28.02.25||||||
+|||||||||
+| **02.03.25** |Fikse alle feilene|||||||
+|||||||||
+| **03.03.25** |Fikse alle feilene, men nå med dårligere tid|||||||
 
 ### Planlegging
 
 Applikasjons navn: **FishTime**
+
+Logo
 
 #### endepunkter jeg vil ha
 
@@ -118,20 +145,27 @@ Applikasjons navn: **FishTime**
   - UI lib som er kompatibelt med Svelte 5
 - Openapi Generator Cli
   - Tar seg av api og dto oppretting på frontend, reduserer hvor mye kode man må skrive
+- [https://github.com/vkurko/calendar](https://github.com/vkurko/calendar)
 
 ## Demokrati og medborgerskap
+
+Som IT-Utvikler er det flere måter å bidra til å forhindre spredningen av falsk informasjon. Hvis man for eksemple eier eller administrerer et sosiale medier plattform kan det være lurt å moderere innholdet som blir lagt ut på en nøytral, objektiv og faktabasert måte. Itillegg til å moderere plattformen sin ved å ha regler som må følges kan man også vurdere å legge til et system lignende til [Community Notes](https://en.wikipedia.org/wiki/Community_Notes). Dette er ikke et perfekt system, men kan assistere i kampen mot falsk informasjon.
+
+Noe som kan være lurt hvis man skal vise bilder eller video på en nettside er å bygge inn støtte for [C2PA](https://en.wikipedia.org/wiki/Content_Authenticity_Initiative). C2PA er et forsøk på å standardisere og forhindre uoppdaget redigering av metadata. C2PA kan ikke si om et bilde er sant eller ikke, men kan heller tilby pålitelig informasjon om opphavet til et bilde.
 
 ## Bærekraftig utvikling
 
 ### A
 
+Skriv litt om hva du har lært under din tid som lærling i din virksomhet i rollen som IT-utvikler i arbeidet mot bærekraftig utvikling. (minimum 100 ord)
+
 ### B
+
+Tenk gjennom og skriv litt om hvordan du som IT-utvikler kan være bidra til å skape positive endringer for miljøet? (minimum 100 ord)
 
 ## Andre ting
 
-### kompetansemål
-
-#### [kompetansemål_url](https://www.udir.no/lk20/iuv03-01/kompetansemaal-og-vurdering/kv530)
+### [kompetansemål](https://www.udir.no/lk20/iuv03-01/kompetansemaal-og-vurdering/kv530)
 
 #### 1
 
