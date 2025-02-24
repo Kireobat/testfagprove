@@ -14,3 +14,7 @@ Oppgaven er tilgjengelig [her](https://github.com/Kireobat/testfagprove/blob/mas
 Planlegging er tilgjengelig [her](https://github.com/Kireobat/testfagprove/blob/master/docs/plan.md).
 
 ## Gjennomføring
+
+Backend er tilgjengelig [her](https://github.com/Kireobat/fish-time)
+
+Frontend er tilgjengelig [her](https://github.com/Kireobat/fish-time-web)
