@@ -43,3 +43,10 @@
 ## 27.02.25
 
 ### Backend - Fortsatt Utvikling
+
+- Laget tester for alle service filer
+- Endret møtebookings prosessen for å forhindre dobbeltbooking
+
+### Frontend - Oppsett
+
+- Satt opp frontend prosjektet med Svelte 5, TailwindCSS og Flowbite UI med custom farger osv.
