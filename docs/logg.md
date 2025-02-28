@@ -46,7 +46,13 @@
 
 - Laget tester for alle service filer
 - Endret møtebookings prosessen for å forhindre dobbeltbooking
+- La inn jenkinsfile for CI/CD
+- Gjordt api tilgjengelig for ved [https://api.kireobat.eu/fish-time](https://api.kireobat.eu/fish-time)
 
 ### Frontend - Oppsett
 
 - Satt opp frontend prosjektet med Svelte 5, TailwindCSS og Flowbite UI med custom farger osv.
+- Navbar for mobil og desktop
+- Lagt inn kalender komponent
+- Lagt inn backend via openapi-generator-cli
+- Lagt inn legal jargin
