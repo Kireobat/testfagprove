@@ -56,3 +56,29 @@
 - Lagt inn kalender komponent
 - Lagt inn backend via openapi-generator-cli
 - Lagt inn legal jargin
+
+## 28.02.25
+
+### Backend - Små endringer
+
+- Endret møtesøket
+- Oppdatert Dto
+  
+### Frontend - Fortsatt Utvikling
+
+- Mulighet for å legge til deltakere
+- Mulighet for å legge til møter
+- Mulighet for å legge til rom
+- m.m.
+
+## 01.03.25
+
+### Backend - idk
+
+- la til readme
+
+### Frontend - idk
+
+- oppdatert til readme
+- oppdatert nav ting
+- mulighet til å batch opprette brukere
