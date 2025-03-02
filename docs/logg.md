@@ -73,12 +73,29 @@
 
 ## 01.03.25
 
-### Backend - idk
+### Backend - readme og rettigheter
 
 - la til readme
+- isAdmin endepunkt
 
-### Frontend - idk
+### Frontend - feedback
 
 - oppdatert til readme
 - oppdatert nav ting
 - mulighet til å batch opprette brukere
+- feedback på handlinger
+
+## 02.03.25
+
+### Backend - bugfixes
+
+- Feil id ble sjekket for å unngå duplikat participants
+- Feil i patchingen av rom
+
+### Frontend - Admin sider
+
+- Lagt til admin
+- Lagt til side for å administrere brukere og rom
+- Fikset farger og andre design feil
+- Fikset innlogging slik at man blir redirektet etter login
+- Endret slik at admin sider kun er tilgjengelig for admin
