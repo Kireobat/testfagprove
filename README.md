@@ -4,6 +4,7 @@
   - [Oppgave](#oppgave)
   - [Planlegging](#planlegging)
   - [Gjennomføring](#gjennomføring)
+  - [Vurdering](#vurdering)
 
 ## Oppgave
 
@@ -22,3 +23,7 @@ Skriftlig oppgaver er tilgjengelig [her](https://github.com/Kireobat/testfagprov
 Backend er tilgjengelig [her](https://github.com/Kireobat/fish-time)
 
 Frontend er tilgjengelig [her](https://github.com/Kireobat/fish-time-web)
+
+## Vurdering
+
+Vurdering er tilgjengelig [her](https://github.com/Kireobat/testfagprove/blob/master/docs/vurdering.md)

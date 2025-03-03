@@ -1,4 +1,4 @@
-# Oppgave.md
+# oppgave.md
 
 ## Annet
 

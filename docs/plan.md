@@ -1,6 +1,6 @@
-# Plan.md
+# plan.md
 
-- [Plan.md](#planmd)
+- [plan.md](#planmd)
   - [powerpoint](#powerpoint)
   - [Hovedoppgave](#hovedoppgave)
     - [Logg](#logg)
