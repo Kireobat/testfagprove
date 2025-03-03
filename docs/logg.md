@@ -99,3 +99,14 @@
 - Fikset farger og andre design feil
 - Fikset innlogging slik at man blir redirektet etter login
 - Endret slik at admin sider kun er tilgjengelig for admin
+
+## 03.03.25
+
+### Frontend - forbedret kalender
+
+- Kan nå dra og slippe møter i kalenderen hvis man har tillatelse
+- bugfixes
+
+### Skriftlig Oppgave
+
+- Skrevet skriftlig oppgave

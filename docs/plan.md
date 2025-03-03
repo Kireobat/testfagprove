@@ -11,10 +11,6 @@
       - [Teknologi valg](#teknologi-valg)
         - [Backend](#backend)
         - [Frontend](#frontend)
-  - [Demokrati og medborgerskap](#demokrati-og-medborgerskap)
-  - [Bærekraftig utvikling](#bærekraftig-utvikling)
-    - [A](#a)
-    - [B](#b)
   - [Andre ting](#andre-ting)
     - [kompetansemål](#kompetansemål)
       - [1](#1)
@@ -146,22 +142,6 @@ Logo
 - Openapi Generator Cli
   - Tar seg av api og dto oppretting på frontend, reduserer hvor mye kode man må skrive
 - [https://github.com/vkurko/calendar](https://github.com/vkurko/calendar)
-
-## Demokrati og medborgerskap
-
-Som IT-Utvikler er det flere måter å bidra til å forhindre spredningen av falsk informasjon. Hvis man for eksemple eier eller administrerer et sosiale medier plattform kan det være lurt å moderere innholdet som blir lagt ut på en nøytral, objektiv og faktabasert måte. Itillegg til å moderere plattformen sin ved å ha regler som må følges kan man også vurdere å legge til et system lignende til [Community Notes](https://en.wikipedia.org/wiki/Community_Notes). Dette er ikke et perfekt system, men kan assistere i kampen mot falsk informasjon.
-
-Noe som kan være lurt hvis man skal vise bilder eller video på en nettside er å bygge inn støtte for [C2PA](https://en.wikipedia.org/wiki/Content_Authenticity_Initiative). C2PA er et forsøk på å standardisere og forhindre uoppdaget redigering av metadata. C2PA kan ikke si om et bilde er sant eller ikke, men kan heller tilby pålitelig informasjon om opphavet til et bilde.
-
-## Bærekraftig utvikling
-
-### A
-
-Skriv litt om hva du har lært under din tid som lærling i din virksomhet i rollen som IT-utvikler i arbeidet mot bærekraftig utvikling. (minimum 100 ord)
-
-### B
-
-Tenk gjennom og skriv litt om hvordan du som IT-utvikler kan være bidra til å skape positive endringer for miljøet? (minimum 100 ord)
 
 ## Andre ting
 

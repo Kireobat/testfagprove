@@ -15,6 +15,8 @@ Planlegging er tilgjengelig [her](https://github.com/Kireobat/testfagprove/blob/
 
 ## Gjennomføring
 
+Skriftlig oppgaver er tilgjengelig [her](https://github.com/Kireobat/testfagprove/blob/master/docs/skriftligOppgaver.md)
+
 Backend er tilgjengelig [her](https://github.com/Kireobat/fish-time)
 
 Frontend er tilgjengelig [her](https://github.com/Kireobat/fish-time-web)
